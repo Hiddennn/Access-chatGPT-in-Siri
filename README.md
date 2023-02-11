@@ -1,7 +1,8 @@
 # Access-chatGPT-in-Siri
 The detailed toturial can refer to https://github.com/Daiyimo/Access-chatGPT-in-Siri
+Thanks @Daiyimo's excellent work!
 
-This fork repo has some adjustment of user experience interaction.
+This fork repo has some adjustment of user experience interaction compared to the original one.
 - Support more continuous user behaviour interaction. Removed the pop-up of asking if continue or end the dialogue. 
 - Removed blank line of result.
 - Added verification of empty result in order to avoid poping up unexpected results.
